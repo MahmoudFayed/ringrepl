@@ -1,5 +1,6 @@
-# ringrepl
-Ring REPL (Read - Eval - Print - Loop)
+# RingREPL
+
+Ring REPL (Read - Eval - Print - Loop) - using the Ring programming language
 
 # To run the application
 
