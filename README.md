@@ -7,7 +7,7 @@ Ring REPL (Read - Eval - Pring - Loop)
 
 (2) Run replw.ring
 
-	ring repl.ring
+	ring replw.ring
 
 (3) Screen Shot
 
