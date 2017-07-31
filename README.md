@@ -1,5 +1,5 @@
 # ringrepl
-Ring REPL (Read - Eval - Pring - Loop)
+Ring REPL (Read - Eval - Print - Loop)
 
 # To run the application
 
