@@ -1,2 +1,15 @@
 # ringrepl
 Ring REPL (Read - Eval - Pring - Loop)
+
+# To run the application
+
+(1) Download and install Ring 1.4.1 from http://ring-lang.net
+
+(2) Run replw.ring
+
+	ring repl.ring
+
+(3) Screen Shot
+
+![RingREPL](https://raw.githubusercontent.com/MahmoudFayed/ringrepl/master/ringrepl_screenshot.png)
+
